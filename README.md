@@ -1,2 +1,2 @@
 # HRanalysis
-Created an interactive HR dashboard in Power BI to visualize key metrics like headcount, Attrition, hiring trends, and departmental performance. Enabled data-driven insights through dynamic visuals, DAX calculations, and integration of multiple HR data sources.
+Developed an interactive HR analytics dashboard in Power BI to track key workforce metrics such as employee headcount, turnover rate, hiring trends, and department-wise performance. Enabled real-time insights and data-driven decision-making by integrating data from multiple HR systems, applying DAX measures, and implementing user-friendly visualizations.
